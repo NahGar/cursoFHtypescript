@@ -1,10 +1,2 @@
-"use strict";
-let avengers = 5;
-let villanos = 2;
-let otros = 2;
-if (avengers > villanos) {
-    console.log("Salvados");
-}
-else {
-    console.log("Muertos");
-}
+let arreglo = [1, 2, 3, 4];
+arreglo.push(5);

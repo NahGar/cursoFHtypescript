@@ -1,4 +1,3 @@
-"use strict";
 let esSuperman = true;
 let esBatman;
 if (esSuperman) {
