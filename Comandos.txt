@@ -1,0 +1,8 @@
+1) Instalar typescript: 
+    npm install -g typescript
+2) Compilar un archivo TS
+    tsc nombreArchivo.ts
+3) Compilar un archivo TS > JS cada vez que haya cambios
+    tsc nombreArchivo.ts -w
+4) Compilar todos los archivos TS
+    tsc -w
